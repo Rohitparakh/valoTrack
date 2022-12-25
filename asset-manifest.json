@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/valoTrack/static/css/main.6085f2d0.css",
+    "main.js": "/valoTrack/static/js/main.f9aeaa14.js",
+    "static/js/787.4c539db1.chunk.js": "/valoTrack/static/js/787.4c539db1.chunk.js",
+    "static/media/logo.jpg": "/valoTrack/static/media/logo.1446bd6873f8d94d398b.jpg",
+    "index.html": "/valoTrack/index.html",
+    "main.6085f2d0.css.map": "/valoTrack/static/css/main.6085f2d0.css.map",
+    "main.f9aeaa14.js.map": "/valoTrack/static/js/main.f9aeaa14.js.map",
+    "787.4c539db1.chunk.js.map": "/valoTrack/static/js/787.4c539db1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6085f2d0.css",
+    "static/js/main.f9aeaa14.js"
+  ]
+}
